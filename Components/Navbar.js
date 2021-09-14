@@ -154,6 +154,7 @@ const Navbar = () => {
                                                     <Head>
                                                         <title> {name} </title>
                                                         <link rel="icon" href={img} sizes="16x16" type="image/png" />
+                                                        <meta name="google-site-verification" content="IB2cU-2eG7MrUQfnVcXZiiU1vLntHBvCPPBSx3Htqvs" />
                                                     </Head>
                                                 </Box>
                                         </Flex>
