@@ -85,6 +85,7 @@ const Navbar = () => {
         <title>
           Welcome :)
         </title>
+    <meta name="google-site-verification" content="IB2cU-2eG7MrUQfnVcXZiiU1vLntHBvCPPBSx3Htqvs" />
     </Head>
             
             <Stack  justifyContent="space-around" borderBottomWidth="" boxShadow="sm">
